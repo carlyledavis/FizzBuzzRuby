@@ -4,4 +4,6 @@ class Fizzbuzz
   end
 end
 
+fb= Fizzbuzz.new
+print fb.run([1])
 
